@@ -14,7 +14,7 @@ func main() {
 	time.Sleep(time.Second)
 	blockchain.AddBlock("After genesis, I have something to say.")
 	time.Sleep(time.Second)
-	blockchain.AddBlock("Leo Cao is awesome")
+	blockchain.AddBlock("J.L is awesome")
 	time.Sleep(time.Second)
 	blockchain.AddBlock("I can't wait to follow his github!")
 	time.Sleep(time.Second)
